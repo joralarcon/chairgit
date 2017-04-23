@@ -1,0 +1,2 @@
+# chairgit
+try local conneciton
